@@ -1,4 +1,4 @@
-# Django_Extensions_Setup_For Windows 7, 8, 10
+# Django_Extensions: Setup For Windows 7, 8, 10
 
 Steps to setup Django Extensions on Windows
 
